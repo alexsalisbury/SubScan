@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SubScan": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../SubScan.Tests/TestData"
+    }
+  }
+}

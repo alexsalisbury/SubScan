@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="SubScan.Tests/SubScan.Tests.csproj" Id="f34269e7-4d63-4b3e-b5bb-76608c4aac61" />
+  <Project Path="SubScan/SubScan.csproj" />
+</Solution>
